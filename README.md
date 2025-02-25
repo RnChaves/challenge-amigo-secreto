@@ -2,7 +2,9 @@
   Challenge - Amigo Secreto
 </h1>
 
-<p>Projeto do Curso de programação Alura.</p>
+<h3>
+  Projeto do Curso de programação Alura.
+</h3>
 
 <h2><b>
   Tecnologias
