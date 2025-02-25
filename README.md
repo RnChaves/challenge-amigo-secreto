@@ -14,6 +14,22 @@
 </div>
 
 <h2><b>
+  🎁 Amigo Secreto
+</b></h2>
+<h3>
+Este é um projeto desenvolvido para gerenciar sorteios de **Amigo Secreto** de forma simples e interativa.
+</h3>
+
+<h2>
+  Funcionalidades
+</h2>
+<h3>
+  - 📥 **Adicionar amigos**: Permite inserir nomes na lista de participantes.
+- 🔄 **Sortear aleatoriamente**: Gera pares aleatórios de amigos secretos.
+- 🎲 **Sortear um único amigo**: Seleciona aleatoriamente um nome da lista.
+- 🗑️ **Limpar lista**: Remove todos os participantes cadastrados.
+</h3>h3
+<h2><b>
   Contribuição
 </b></h2>
 <h3>
